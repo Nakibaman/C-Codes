@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int age;
+    scanf("%d",&age);
     return 0;
 }
