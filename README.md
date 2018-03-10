@@ -1,6 +1,6 @@
 # C-Codes
 
-The codes provided here are used only for learning purposes for Structured Programmming Course for B.Sc Degree for Deploma Students by 
+The codes provided here are used only for learning purposes for Structured Programmming Course of B.Sc Degree Deploma Students by 
 Varendra University, Rajshahi.
 
 The course is conducted by
